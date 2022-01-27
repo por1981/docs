@@ -1,4 +1,4 @@
-name: Remove stale staging resources
+name: docs/.github/workflows/remove-stale-staging-resources.yml
 
 # **What it does**:
 # This cleans up any rogue staging applications and environments that outlasted
